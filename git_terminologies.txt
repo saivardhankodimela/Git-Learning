@@ -1,0 +1,12 @@
+git --version
+git init
+git status
+
+
+- Initialising a Repo (git init)
+- Checking the status (git status)
+- add the files to Git's tracking system (git add <filename or directory>)
+  ( git add . ) => stages all untracked changes. 
+- Staging area: This is a preview area, where you can either continue to commit or remove it before commiting.
+- remove from staging area ( git rm --cached <file>...)
+- Diff : Looking into changes of the current file. (git diff)
