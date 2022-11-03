@@ -10,3 +10,7 @@ git status
 - Staging area: This is a preview area, where you can either continue to commit or remove it before commiting.
 - remove from staging area ( git rm --cached <file>...)
 - Diff : Looking into changes of the current file. (git diff)
+  == after tracking the files/ staging we cannot find the diff if we want the diff then we use
+- cached Diff : for checking the difference of added files (git diff --cached)
+- commiting the chages (git commit -m "message of commit")
+- commit log: What all changes you and your team has made (git log)
