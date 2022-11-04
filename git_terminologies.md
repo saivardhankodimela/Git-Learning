@@ -39,5 +39,20 @@
 
 Day-2:
 
+- Introduction to Issues.
+- creating an issue.
+- Assigning issues to collaborators.
+- Getting an issue assigned to you.
+- What are pull requests?
+- How to create a pull request?
+- Forking a repository.
+- Raising a pull request.
+- Reviewing a pull request.
+- Different merging strategies.
+  - merge commit
+  - squash commit
+  - rebase
+- Merging a pull request.
+- choosing the right strategy.
 
 
