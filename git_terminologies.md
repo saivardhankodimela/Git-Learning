@@ -32,4 +32,12 @@ git status
 - to update (github) that branch is deleted (git push origin :branchName)
 - list all tags (git tag / git tag -a v1.0 -m "Trying out tags")
 - To push tags (git push origin v1.0)
-- going back in time (git reset --hard Head~2)
+- going back in time (git reset --hard Head~2) ==> learn more by doing things.
+
+
+=======================================================================================================================================
+
+Day-2:
+
+
+
