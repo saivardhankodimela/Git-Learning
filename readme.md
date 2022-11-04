@@ -11,4 +11,4 @@
   - [Episode 3](https://rb.gy/spmr5j)
 
 This repo is created while learning git from the above videos.
-This link for [tutors github](https://github.com/edusera-github/my-first-project)
+Checkout [tutors github](https://github.com/praveenscience) and [repository](https://github.com/edusera-github/my-first-project) used to demonstrate 
